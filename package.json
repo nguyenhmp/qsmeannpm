@@ -1,0 +1,12 @@
+{
+  "author": "Minh Nguyen",
+  "license": "BSD",
+  "name": "quick-start-mean",
+  "version": "0.1.3",
+  "description": "This is a quick start module that will have the file set up for a MEAN project. Mongo, Express, Angular and Node",
+  "bin": {
+    "qsmean": "bin/quick-start-module.js"
+  },
+  "main": "./lib/index.js",
+  "preferGlobal": "true"
+}
